@@ -23,9 +23,9 @@
     <h2 align="center"> <img src="https://www.gifcen.com/wp-content/uploads/2022/05/thumbs-up-gif-12.gif" width="30" alt=""> Reach me</h2>
 </div>
 <p align="center">
-<a href="https://linkedin.com/in/ariful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariful islam" height="30" width="40" /></a>
-<a href="https://fb.com/ariful islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful islam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/easy developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easy developer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariful-islam-b4a405274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariful islam" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100053190180040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful islam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@easydeveloper108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easy developer" height="30" width="40" /></a>
 </p>
 
 <hr>
