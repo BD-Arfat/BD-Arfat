@@ -129,25 +129,24 @@
 <!---- projects ----->
 ## My MERN Stack Projects
 
-### 1. [E-Commerce Web App](#) 🛒
-A full-fledged e-commerce web application built with the MERN stack. The app allows users to browse products, add them to the cart, and complete the checkout process. Features include user authentication, product management, order history, and integration with Stripe for payments.
-- **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Stripe, JWT Authentication
+### 1. [MedlinePlus](#) 🛒
+a medicine e-commerce platform that enables users to buy and sell medicines seamlessly. This platform ensures a secure and efficient buying experience, featuring online payment integration for hassle-free transactions.
+- **Technologies Used:** React.js, tailwind css, firebase, Node.js, Express.js, MongoDB, Stripe, JWT Authentication
 - **Key Features:**
-  - User authentication & authorization with JWT
-  - Payment gateway integration (Stripe)
-  - Dynamic product catalog and cart system
-  - Admin panel for managing products and orders
-- [View Project](#)
+  - •	Users can buy and sell products.
+  - •	User Dashboard, Admin Dashboard, and Seller Dashboard have been added.
+  - •	Payment system added. Stripe used.
+  - •	Fully responsive website with pagination and add-ons
+- [View Project] : https://medicine-client.web.app/(#)
 
-### 2. [Task Management App](#) 📋
-A collaborative task management app that allows users to create, assign, and track tasks in real-time. It features a simple and intuitive UI for managing projects, with user roles and real-time updates using Socket.IO.
-- **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Socket.IO
+### 2. [LIFTGUARD SOLUTION](#) 📋
+This is a fully responsive, industry-level management system built using React, Tailwind CSS.
+- **Technologies Used:** React.js, tailwind css
 - **Key Features:**
-  - Real-time task updates with Socket.IO
-  - User authentication with JWT and role-based access
-  - Task categorization and priority settings
-  - Push notifications for task updates
-- [View Project](#)
+  - Responsive design
+  - Smooth scrolling, Animated components
+  - User Can See Home, Abouts, Service & Contact
+- [View Project] : https://liftguardsolution01.netlify.app/(#)
 
 ### 3. [Social Media Platform](#) 🌐
 A social media platform built using the MERN stack, where users can create profiles, post updates, follow friends, and engage in comments and likes. The application includes a real-time messaging feature and a rich user interface.
