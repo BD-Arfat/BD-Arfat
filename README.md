@@ -137,7 +137,7 @@ a medicine e-commerce platform that enables users to buy and sell medicines seam
   - •	User Dashboard, Admin Dashboard, and Seller Dashboard have been added.
   - •	Payment system added. Stripe used.
   - •	Fully responsive website with pagination and add-ons
-- [View Project] : https://medicine-client.web.app/(#)
+- [View Project] : https://medicine-client.web.app/
 
 ### 2. [LIFTGUARD SOLUTION](#) 📋
 This is a fully responsive, industry-level management system built using React, Tailwind CSS.
@@ -146,7 +146,7 @@ This is a fully responsive, industry-level management system built using React, 
   - Responsive design
   - Smooth scrolling, Animated components
   - User Can See Home, Abouts, Service & Contact
-- [View Project] : https://liftguardsolution01.netlify.app/(#)
+- [View Project] : https://liftguardsolution01.netlify.app/
 
 ### 3. [Social Media Platform](#) 🌐
 A social media platform built using the MERN stack, where users can create profiles, post updates, follow friends, and engage in comments and likes. The application includes a real-time messaging feature and a rich user interface.
