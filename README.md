@@ -148,15 +148,15 @@ This is a fully responsive, industry-level management system built using React, 
   - User Can See Home, Abouts, Service & Contact
 - [View Project] : https://liftguardsolution01.netlify.app/
 
-### 3. [Social Media Platform](#) 🌐
-A social media platform built using the MERN stack, where users can create profiles, post updates, follow friends, and engage in comments and likes. The application includes a real-time messaging feature and a rich user interface.
-- **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Cloudinary
+### 3. [Rainbow Collection](#) 🌐
+A modern, responsive e-commerce platform built for festive shopping during Eid. Features include product browsing by category, user reviews, Stripe payments, and secure Firebase authentication. Users can manage their orders via dashboard, while admins control users, products, and transactions.
+- **Technologies Used:** React, Tailwind CSS, Firebase, Stripe, React Query, Node.js, Express.js, MongoDB, Vite
 - **Key Features:**
-  - Real-time messaging with Socket.IO
-  - Image upload and storage with Cloudinary
-  - User profiles with follow/unfollow functionality
-  - Like and comment functionality on posts
-- [View Project](#)
+  - Product listing & review system
+  - User & admin dashboards
+  - Secure login/logout (Firebase)
+  - Role-based access & admin controls
+- [View Project](https://panjabi-server.web.app/)
 
 
 <!-- Contact Information -->
